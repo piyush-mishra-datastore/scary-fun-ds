@@ -1,0 +1,1 @@
+This is just a data store for GIFs of Scary Fun mobile game.
